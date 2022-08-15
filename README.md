@@ -9,5 +9,8 @@ On the other hand, I look forward my little baby can read me in next years . Whe
 The first step I just decided, it is to create a youtube channel 
 Then, I make a commitment to post in Github at the end of the day my progress.
 
+On the other hand, I downloaded Visual studio code, .Net 6.0 and SQLserver 2019. 
+
+
 
 
